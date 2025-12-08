@@ -1,3 +1,5 @@
+This is copied form https://github.com/Pandoks/sveltronkit. It adds skeleton UI since that is what I am used to working with. It has some easy examples for how the electron app communicates with the sveltekit application.
+
 # SveltronKit
 
 A minimal template for building Electron apps with SvelteKit.
